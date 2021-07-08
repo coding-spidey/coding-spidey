@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, web development, python, c++**
 
-- 📫 How to reach me [rishabhgoswami938@gmail.com](mailto:rishabhgoswami938@gmail.com)
+- 📫 How to reach me : [rishabhgoswami938@gmail.com](mailto:rishabhgoswami938@gmail.com)
 
 - 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1h_WNP8VNiD5OIRpbP2Y-r5A5RB_ctTHW/view?usp=sharing)
 
