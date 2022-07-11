@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
 <h3 align="center">I am a developer, I have been coding in C and C++ for quite a while now, I am fluent in basic python as well. I have knowledge of data structures and algorithms. I have worked on quite a few Projects. I have a keen interest in creating new apps and would love to continue developing and making some beautiful and useful products.</h3>
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Any project based on web development or statistics.**
 
 - 👨‍💻 All of my projects are available at my [github profile](https://github.com/coding-spidey?tab=repositories)
 
-- 💬 Ask me about **react, web development, python, c++**
+- 💬 Ask me about **MERN, web development, python, c++**
 
 - 📫 How to reach me : [rishabhgoswami938@gmail.com](mailto:rishabhgoswami938@gmail.com)
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rishabh-goswami-dtu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-goswami-dtu" height="30" width="40" /></a>
-<a href="https://instagram.com/webcrawler__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webcrawler__" height="30" width="40" /></a>
+<a href="https://instagram.com/_webcrawler_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webcrawler__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/coding_spidey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="coding_spidey" height="30" width="40" /></a>
 </p>
 
