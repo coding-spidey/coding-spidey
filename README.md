@@ -13,7 +13,7 @@
 
 - 📫 How to reach me : [rishabhgoswami938@gmail.com](mailto:rishabhgoswami938@gmail.com)
 
-- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1h_WNP8VNiD5OIRpbP2Y-r5A5RB_ctTHW/view?usp=sharing)
+- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/16kD01knizmW33sL4MC4RgWOBNPL3V03y/view?usp=sharing)
 
 - ⚡ Fun fact **I am learning to solve rubik's cube without knowing the usual algorithm.**
 
